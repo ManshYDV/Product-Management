@@ -23,7 +23,7 @@
 		<property name="driverClassName" value="com.mysql.cj.jdbc.Driver" />
 		<property name="url" value="jdbc:mysql://localhost:3306/productcrud" />
 		<property name="username" value="root" />
-		<property name="password" value="@DMINmSaQnL123" />
+		<property name="password" value="" />
 	</bean>
 	<!--factory-->
 	<bean class="org.springframework.orm.hibernate5.LocalSessionFactoryBean"
